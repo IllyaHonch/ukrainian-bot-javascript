@@ -18,7 +18,7 @@ for(const file of commandFiles){
 }
 
 client.once('ready', () => {
- console.log('Brawl Talk видалено');
+ console.log('Ukrainian Bot is ready!');
 });
 client.once('reconnecting', () => {
  console.log('Reconnecting!');
